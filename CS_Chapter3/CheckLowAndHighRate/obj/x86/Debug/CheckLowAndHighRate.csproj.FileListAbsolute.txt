@@ -1,0 +1,1 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\obj\x86\Debug\CheckLowAndHighRate.csprojResolveAssemblyReference.cache
